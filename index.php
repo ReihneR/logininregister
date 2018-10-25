@@ -9,7 +9,7 @@
 <body>
 
     <!-- Regrestering -->
-
+REGISTRERA <br>
     <form action="submit.php" method="get">
 
         Name: <input type="Name" name="name" placeholder="Type name"><br>
@@ -32,12 +32,15 @@
     </form>
 
     <!-- login -->
-
+<br><br><br>
+   
+   LOGGA IN:<br>
     <form action="submit.php" method="POST">
 
-        Email: <input type="email" name="email">
-        password: <input type="password" name="password">
+        Email: <input type="email" name="email"><br>
+        password: <input type="password" name="password"><br>
 
+        <input type="submit" value="Skicka">
 
     </form>
 
