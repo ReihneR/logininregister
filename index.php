@@ -16,14 +16,13 @@ REGISTRERA <br>
 
         Email: <input type="Email" name="email" placeholder="Type email"><br>
 
-        Age: <input type="age" name="age" placeholder="Age"><br>
+        Age: <input type="number" name="age" placeholder="Age"><br>
 
         Male: <input type="radio" name="gender" value="Male"><br>
 
         Female: <input type="radio" name="gender" value="Female"><br>
 
-        telnr: <input type="tel" name="telephone">
-        <br>
+        telnr: <input type="tel" name="telephone"><br>
 
         Lösenord: <input type="password" name="password">
 

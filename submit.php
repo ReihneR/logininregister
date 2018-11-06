@@ -25,7 +25,9 @@ if(isset($_GET['name']) && isset($_GET['email']) && isset($_GET['age'])&& isset(
     
     
 }
-    
+session 
+ if(isset($_GET['Email']) && isset($_GET['password'])   
 ?>
+
 
 
